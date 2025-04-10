@@ -26,7 +26,7 @@
   <!-- Screenshots will be added here -->
   <img src="screenshots/dark-mode.png" width="200" />
   <img src="screenshots/light-mode.png" width="200" />
-  <img src="screenshots/note-editor.png" width="200" />
+  <img src="screenshots/hamburger-menu.png" width="200" />
 </p>
 
 ## ✨ Features
