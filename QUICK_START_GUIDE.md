@@ -1,6 +1,6 @@
 # Mindbook Quick Start Guide
 
-<img src="assets/icon.png" alt="Mindbook Logo" width="150"/>
+<img src="./assets/logo.png" alt="Mindbook Logo" width="150"/>
 
 Welcome to Mindbook! This quick start guide will help you get up and running with your new note-taking app in minutes.
 
