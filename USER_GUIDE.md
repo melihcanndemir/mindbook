@@ -1,6 +1,6 @@
 # Mindbook User Guide
 
-<img src="../assets/images/logo.png" alt="Mindbook Logo" width="200"/>
+<img src="assets/icon.png" alt="Mindbook Logo" width="200"/>
 
 ## Welcome to Mindbook
 

@@ -1,6 +1,6 @@
 # Mindbook Quick Start Guide
 
-<img src="./assets/images/logo.png" alt="Mindbook Logo" width="150"/>
+<img src="assets/icon.png" alt="Mindbook Logo" width="150"/>
 
 Welcome to Mindbook! This quick start guide will help you get up and running with your new note-taking app in minutes.
 
@@ -8,7 +8,7 @@ Welcome to Mindbook! This quick start guide will help you get up and running wit
 
 1. **Download the App**
 
-   - Visit [mindbook.app/download](https://mindbookpro.netlify.app/download)
+   - Visit [mindbookpro.netlify.app/download](https://mindbookpro.netlify.app/download)
    - Download the APK file for Android
    - Allow installation from unknown sources if prompted
 
@@ -104,8 +104,8 @@ Need help? Pro users get priority support:
 If you need assistance:
 
 - Check our [FAQ](https://mindbookpro.netlify.app/faq)
-- Visit [mindbook.app/help](https://mindbookpro.netlify.app/help)
-- Email [support@mindbook.app](mailto:promindbook@gmail.com)
+- Visit [mindbookpro.netlify.app/help](https://mindbookpro.netlify.app/help)
+- Email [promindbook@gmail.com](mailto:promindbook@gmail.com)
 
 ---
 

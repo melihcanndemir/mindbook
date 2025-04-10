@@ -78,7 +78,7 @@ Secure Vault is a Pro feature that provides an additional layer of encryption fo
 
 ### How does Mindbook handle my personal information?
 
-We collect minimal personal information needed for account functionality. We do not sell your data to third parties. See our full privacy policy at mindbook.app/privacy.
+We collect minimal personal information needed for account functionality. We do not sell your data to third parties. See our full privacy policy at mindbookpro.netlify.app/privacy.
 
 ## Plans & Pricing
 
