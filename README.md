@@ -13,7 +13,7 @@
   <img src="https://img.shields.io/badge/Stack-React%20Native%20%7C%20Expo-blue" alt="Stack"/>
   <img src="https://img.shields.io/badge/Database-Supabase-green" alt="Database"/>
   <img src="https://img.shields.io/badge/Languages-12-orange" alt="Languages"/>
-  <img src="https://img.shields.io/badge/Version-4.0.2-purple" alt="Version"/>
+  <img src="https://img.shields.io/badge/Version-4.0.3-purple" alt="Version"/>
 </p>
 
 <p align="center">
@@ -119,6 +119,19 @@ Mindbook Pro has comprehensive documentation for different aspects of the projec
 - [FAQ.md](FAQ.md) - Answers to frequently asked questions
 - [PRODUCT_ANALYSIS.md](PRODUCT_ANALYSIS.md) - Strategic overview and market positioning
 - [LICENSE](LICENSE) - License information
+
+## 🛡️ Compliance & Legal
+
+- [PRIVACY_POLICY.md](PRIVACY_POLICY.md) - Privacy Policy
+- [TERMS_OF_SERVICE.md](TERMS_OF_SERVICE.md) - Terms of Service
+- [SECURITY_POLICY.md](SECURITY_POLICY.md) - Security Policy
+- [RESPONSIBLE_DISCLOSURE.md](RESPONSIBLE_DISCLOSURE.md) - Responsible Disclosure & No Bug Bounty
+- [ACCESSIBILITY_STATEMENT.md](ACCESSIBILITY_STATEMENT.md) - Accessibility Statement
+- [COOKIE_POLICY.md](COOKIE_POLICY.md) - Cookie Policy
+- [GDPR_COMPLIANCE.md](GDPR_COMPLIANCE.md) - GDPR Compliance
+- [DMCA_NOTICE.md](DMCA_NOTICE.md) - DMCA Notice
+- [COPYRIGHTS.md](COPYRIGHTS.md) - Copyrights
+- [CHANGELOG.md](CHANGELOG.md) - Changelog / Release Notes
 
 ## 📬 Contact
 
