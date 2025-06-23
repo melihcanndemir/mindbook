@@ -9,6 +9,10 @@
 </p>
 
 <p align="center">
+  <a href="PRODUCTION_PROMO.md"><b>→ See Mindbook Pro Production Promo</b></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Platform-iOS%20%7C%20Android-blue" alt="Platform"/>
   <img src="https://img.shields.io/badge/Stack-React%20Native%20%7C%20Expo-blue" alt="Stack"/>
   <img src="https://img.shields.io/badge/Database-Supabase-green" alt="Database"/>
